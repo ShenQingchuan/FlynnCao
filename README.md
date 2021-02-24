@@ -38,7 +38,11 @@
 <div align="center">
 
 <img height="25" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/javascript/javascript.png">
-
+<br>
+开发目标<br>
+1.多语言-mutiple languages<br>
+2.残障友好-disabled friendly<br>
+3.设备兼容性好-devices compatibly<br>
 </div>
 
 <div align="center">
