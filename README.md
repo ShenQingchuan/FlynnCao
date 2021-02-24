@@ -25,7 +25,11 @@
 <div align="center">
   
 ![GuGuGu](https://raw.githubusercontent.com/yinghualuowu/yinghualuowu/master/pic/gugu.png)
-
+<br>
+开发目标<br>
+1.多语言-mutiple languages<br>
+2.残障友好-disabled friendly<br>
+3.设备兼容性好-devices compatibly<br>
 </div>
 
 
@@ -38,11 +42,8 @@
 <div align="center">
 
 <img height="25" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/javascript/javascript.png">
-<br>
-开发目标<br>
-1.多语言-mutiple languages<br>
-2.残障友好-disabled friendly<br>
-3.设备兼容性好-devices compatibly<br>
+<img height="30" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/vue/vue.png">
+
 </div>
 
 <div align="center">
@@ -53,8 +54,7 @@
 
 <div align="center">
 
-<img height="30" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/vue/vue.png">
-<img height="23" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/python/python.png">
+
 
 </div>
 
