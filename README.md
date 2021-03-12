@@ -25,13 +25,6 @@
 <div align="center">
   
 ![GuGuGu](https://raw.githubusercontent.com/yinghualuowu/yinghualuowu/master/pic/gugu.png)
-<br>
-开发目标<br>
-1.多语言-mutiple languages<br>
-2.残障友好-disabled friendly<br>
-3.设备兼容性好-devices compatibly<br>
-</div>
-
 
 <div align="center">
 
