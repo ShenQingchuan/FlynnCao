@@ -42,6 +42,8 @@
 <div align="center">
 
 ### 💙I'm currently learing
+<img height="25" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/node/node.png">
+
 
 </div>
 
