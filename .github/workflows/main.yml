@@ -64,7 +64,6 @@ jobs:
           filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header
-          base_indepth: yes
           config_order: base.header, isocalendar, languages, topics
           plugin_isocalendar: yes
           plugin_languages: yes
@@ -76,5 +75,3 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
-          plugin_notable: no
-          plugin_discussions: no
