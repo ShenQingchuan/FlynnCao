@@ -64,6 +64,7 @@ jobs:
           filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header
+          output_action: gist
           config_order: base.header, isocalendar, languages, topics
           plugin_isocalendar: yes
           plugin_languages: yes
