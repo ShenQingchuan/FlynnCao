@@ -2,16 +2,16 @@
   
 <div style="display:flex;">
 <a href="https://flynncao.github.io/" target="_blank">
-<img src=https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white
+<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"
 />
 <a href="https://www.cnblogs.com/caozhenfei/" target="_blank">
-<img src=https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=black
+<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=black"
 />
 <a href="https://t.me/weclove2008/" target="_blank">
-<img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white/>
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
  <a href="mailto:s2142499@siswa.um.edu.my">
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
 />
 </a>
 
