@@ -47,7 +47,7 @@ I am currently majoring in MSE(CA) at the University of Malaya. <img width="20" 
 - ❓ Ask me about anything related to front-end stack and related technologies  
   
 
-- ⚡ Fun Fact: Anime, history and games
+- ⚡ Fun Fact: anime, history and games
 
 
 </td><td valign="top" width="50%">
