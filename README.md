@@ -1,9 +1,14 @@
 ## Hey 👋, I'm Flynn Cao  
   
-
-<a href="https://github.com/flynncao" target="_blank">
+<div style="display:flex;">
+  <a href="https://github.com/flynncao" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+<a href="[https://github.com/flynncao](https://t.me/weclove2008/)" target="_blank">
+<img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white/>
+</a>
+ </div>
+
 <!-- <a href="https://dev.to/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a> -->
@@ -14,31 +19,25 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>   -->
   
-
-
-
 ### Glad to see you here!  
-Hello, My Name is Flynn. I am from Zhengzhou and born in Puyang,China.:china: I am a front-end developer for web a lot of experience that I’ve done in the website world. For more information, visit flynncao.github.io.
-I am currently majoring in MSE(CA) at the University of Malaya.  :malaysia:
-  
-
+Hello, My Name is Flynn. I am from Puyang,China.<img width="20" src="https://user-images.githubusercontent.com/29702341/173494620-1dbbadf0-e168-4386-97c0-e46a100d2263.png"/>  I am a front-end developer for web a lot of experience that I’ve done in the website world. For more information, visit flynncao.github.io.
+<br/>
+I am currently majoring in MSE(CA) at the University of Malaya. <img width="20" src="https://user-images.githubusercontent.com/29702341/173494703-a734b35c-28df-4fd3-9d07-65449905dfc9.png"/>
 <br/>  
-
-
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning ReactJS and Django.
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
 - ⚡ Fun fact: I am fun of anime and games.  
-
+  
 
 </td><td valign="top" width="50%">
 
@@ -48,11 +47,11 @@ I am currently majoring in MSE(CA) at the University of Malaya.  :malaysia:
 
 
 </td></tr></table>  
-
 <br/>  
 
+## Technology Stack
 
-## Languages and Tools  
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
@@ -81,6 +80,6 @@ I am currently majoring in MSE(CA) at the University of Malaya.  :malaysia:
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=flynncao&&style=flat-square)  
   
 
