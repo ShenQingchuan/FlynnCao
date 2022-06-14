@@ -1,11 +1,11 @@
 ## Hey 👋, I'm Flynn Cao  
   
 <div style="display:flex;">
-  <a href="https://github.com/flynncao" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.cnblogs.com/caozhenfei/">
+<a href="https://flynncao.github.io/">
 <img src=https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white
+/>
+<a href="https://www.cnblogs.com/caozhenfei/">
+<img src=https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=black
 />
 <a href="https://t.me/weclove2008/" target="_blank">
 <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white/>
