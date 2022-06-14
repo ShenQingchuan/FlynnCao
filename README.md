@@ -4,10 +4,22 @@
   <a href="https://github.com/flynncao" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="[https://github.com/flynncao](https://t.me/weclove2008/)" target="_blank">
+<a href="https://www.cnblogs.com/caozhenfei/">
+<img src=https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white
+/>
+<a href="https://t.me/weclove2008/" target="_blank">
 <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white/>
 </a>
+ <a href="mailto:s2142499@siswa.um.edu.my">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+/>
+</a>
+
+</a>
  </div>
+
+
+
 
 <!-- <a href="https://dev.to/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
@@ -21,29 +33,34 @@
   
 ### Glad to see you here!  
 Hello, My Name is Flynn. I am from Puyang,China.<img width="20" src="https://user-images.githubusercontent.com/29702341/173494620-1dbbadf0-e168-4386-97c0-e46a100d2263.png"/>  I am a front-end developer for web a lot of experience that I’ve done in the website world. For more information, visit flynncao.github.io.
+
 <br/>
+
 I am currently majoring in MSE(CA) at the University of Malaya. <img width="20" src="https://user-images.githubusercontent.com/29702341/173494703-a734b35c-28df-4fd3-9d07-65449905dfc9.png"/>
 <br/>  
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
+ 
+  
+- 🌱 Taking courses & doing assignments at UM
+  
+- :man_scientist: [INTP](https://www.16personalities.com/intp-personality) personality
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- :man: Pronouns: he/him
+  
+- ❓ Ask me about anything related to front-end stack and related technologies  
   
 
-- 🌱 I’m currently learning ReactJS and Django.
-  
+- ⚡ Fun Fact: Anime, history and games
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I am fun of anime and games.  
-  
 
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/29702341/173498178-0161744d-ff5a-4933-8ed6-36e1de5ea246.gif" align="center" style="width: 100%" />
 </div>  
+
+  
 
 
 </td></tr></table>  
