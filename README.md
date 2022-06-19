@@ -34,6 +34,9 @@ Hello, My Name is Flynn. I am from Puyang,China.<img width="20" src="https://use
 
 I am currently majoring in MSE(CA) at the University of Malaya. <img width="20" src="https://user-images.githubusercontent.com/29702341/173494703-a734b35c-28df-4fd3-9d07-65449905dfc9.png"/>
 <br/>  
+  
+I write English blog here: https://medium.com/@flynncao
+I write Chinese blog here: https://www.cnblogs.com/caozhenfei/
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
  
