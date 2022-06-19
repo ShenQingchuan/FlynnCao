@@ -30,13 +30,17 @@
 </a>   -->
   
 ### Glad to see you here!  
-Hello, My Name is Flynn. I am from Puyang,China.<img width="20" src="https://user-images.githubusercontent.com/29702341/173494620-1dbbadf0-e168-4386-97c0-e46a100d2263.png"/>  I am a front-end developer for web a lot of experience that I’ve done in the website world. For more information, visit <a href="https://flynncao.github.io/" target="_blank">flynncao.github.io</a>.
+Hello, My Name is Flynn. I am from Puyang,China.<img width="20" src="https://user-images.githubusercontent.com/29702341/173494620-1dbbadf0-e168-4386-97c0-e46a100d2263.png"/>  I am a front-end developer for web a lot of experience that I’ve done in the website world. 
+  
+If you want to know more, please visit [my own webiste](http://flynncao.github.io).
 
 I am currently majoring in MSE(CA) at the University of Malaya. <img width="20" src="https://user-images.githubusercontent.com/29702341/173494703-a734b35c-28df-4fd3-9d07-65449905dfc9.png"/>
 <br/>  
+## Blogs 
   
 I write English blog here: https://medium.com/@flynncao
-I write Chinese blog here: https://www.cnblogs.com/caozhenfei/
+  
+我在这里写中文博客: https://www.cnblogs.com/caozhenfei/
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
  
