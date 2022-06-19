@@ -36,9 +36,9 @@ If you want to know more, please visit [my own webiste](http://flynncao.github.i
 
 I am currently majoring in MSE(CA) at the University of Malaya. <img width="20" src="https://user-images.githubusercontent.com/29702341/173494703-a734b35c-28df-4fd3-9d07-65449905dfc9.png"/>
 <br/>  
-## Blogs 
+## Blog
   
-I write English blog here: https://medium.com/@flynncao
+I write English blog here: https://dev.to/flynncao/
   
 我在这里写中文博客: https://www.cnblogs.com/caozhenfei/
 ## Rapidfire  
