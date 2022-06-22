@@ -24,9 +24,7 @@
 </a>   -->
   
 ### Glad to see you here!  
-Hello, My Name is Flynn. I am from Puyang,China.<img width="20" src="https://user-images.githubusercontent.com/29702341/173494620-1dbbadf0-e168-4386-97c0-e46a100d2263.png"/>  I am a front-end developer for web a lot of experience that I’ve done in the website world. 
-  
-If you want to know more, please visit [flynncao.github.io](http://flynncao.github.io).
+Hello, My Name is Flynn. I am from Puyang,China.<img width="20" src="https://user-images.githubusercontent.com/29702341/173494620-1dbbadf0-e168-4386-97c0-e46a100d2263.png"/>  I am a front-end developer for web a lot of experience that I’ve done in the website world. If you want to know more, please visit [flynncao.github.io](http://flynncao.github.io).
 
 I am currently majoring in MSE(CA) at the University of Malaya. <img width="20" src="https://user-images.githubusercontent.com/29702341/173494703-a734b35c-28df-4fd3-9d07-65449905dfc9.png"/>
 <br/>  
@@ -43,22 +41,20 @@ I write English blog here: https://dev.to/flynncao/
 - 🌱 Taking courses & doing assignments at UM
   
 - :man_scientist: [INTP](https://www.16personalities.com/intp-personality) personality
-
-- :man: Pronouns: he/him
+  
+- ⚡ Fun Fact: anime, history and games
   
 - ❓ Ask me about anything related to front-end stack and related technologies  
   
 
-- ⚡ Fun Fact: anime, history and games
 
 
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/29702341/173498830-1f268313-85d5-4a8e-b906-f19fd1ee293c.gif" align="center" style="width: 100%" />
-</div>  
 
-  
+<img src="https://user-images.githubusercontent.com/29702341/175050129-a2955793-dcf8-4a85-aba6-0c8a3644fe06.gif" align="center" style="width: 100%" />
+</div>  
 
 
 </td></tr></table>  
