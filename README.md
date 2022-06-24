@@ -24,7 +24,7 @@
 </a>   -->
   
 ### Glad to see you here!  
-Hello, My Name is Flynn. I am from Puyang,China.<img width="20" src="https://user-images.githubusercontent.com/29702341/173494620-1dbbadf0-e168-4386-97c0-e46a100d2263.png"/>  I am a front-end developer for web a lot of experience that I’ve done in the website world. If you want to know more, please visit [flynncao.github.io](http://flynncao.github.io).
+Hello, My Name is Flynn. I am from Puyang,China.<img width="20" src="https://user-images.githubusercontent.com/29702341/173494620-1dbbadf0-e168-4386-97c0-e46a100d2263.png"/>  I am a front-end / fullstack developer for web a lot of experience that I’ve done in the website world. If you want to know more, please visit [flynncao.github.io](http://flynncao.github.io).
 
 I am currently majoring in MSE(CA) at the University of Malaya. <img width="20" src="https://user-images.githubusercontent.com/29702341/173494703-a734b35c-28df-4fd3-9d07-65449905dfc9.png"/>
 <br/>  
