@@ -90,4 +90,6 @@ I write English blog here: https://dev.to/flynncao/
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=flynncao&&style=flat-square)  
   
+## Current Ideas
+* 一个web应用可以让用户直接看到当前最高/最低温度（最适合外出的时机）
 
