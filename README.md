@@ -1,11 +1,10 @@
-## Hey 👋, I'm Flynn Cao  
+## Hey 👋, I'm Flynn Cao ~
 
 
-<img style="max-width:100%;max-height:100%;"  src="https://user-images.githubusercontent.com/29702341/176376771-53598eff-6c5c-4f40-8b44-a236ce31902b.jpg" ></img>
+<details>
+<summary></summary>
 
-  
 ## TECHNOLOGY STACK
-
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
@@ -32,5 +31,11 @@
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=flynncao&&style=flat-square)  
+</details>
+<img style="max-width:100%;max-height:100%;"  src="https://user-images.githubusercontent.com/29702341/176376771-53598eff-6c5c-4f40-8b44-a236ce31902b.jpg" ></img>
+
+
+  
+
   
 
