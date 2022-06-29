@@ -46,7 +46,7 @@ I write English blog here: https://dev.to/flynncao/
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/29702341/175050129-a2955793-dcf8-4a85-aba6-0c8a3644fe06.gif" align="center" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/29702341/175050129-a2955793-dcf8-4a85-aba6-0c8a3644fe06.gif" align="center" style="width: 100%;height:100%;" />
 </div>  
 
 
