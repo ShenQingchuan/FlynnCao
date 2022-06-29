@@ -1,4 +1,5 @@
-## Hey 👋, I'm Flynn Cao ~
+## Hey 👋, I'm Flynn Cao ~  
+
 
 
 <details>
@@ -30,6 +31,10 @@
 [<img   src="https://raw.githubusercontent.com/FlynnCao/github-stats-transparent/output/generated/languages.svg">](#)
 
 </div>
+
+<!--
+![Profile views counter](https://komarev.com/ghpvc/?username=flynncao&&style=flat-square) 
+-->
 <br/>  
 
 </details>
@@ -41,20 +46,18 @@
 
 
 <p align="center">
-  <strong><a href="https://flynncao.github.io">Official Website</a></strong> |
-  <strong><a href="https://twitter.com/flynncao99">Twitter</a></strong> |
-  <strong><a href="https://t.me/weclove2008/">Telegram</a></strong> |
-  <strong><a href="https://https://dev.to/flynncao">Devto</a></strong> |
-  <strong><a href="https://www.cnblogs.com/caozhenfei/">博客园</a></strong>
+  <strong><a href="https://flynncao.github.io" target="_blank">Official Website</a></strong> |
+  <strong><a href="https://twitter.com/flynncao99" target="_blank">Twitter</a></strong> |
+  <strong><a href="https://t.me/weclove2008/" target="_blank">Telegram</a></strong> |
+  <strong><a href="https://https://dev.to/flynncao" target="_blank">Devto</a></strong> |
+  <strong><a href="https://www.cnblogs.com/caozhenfei/" target="_blank">博客园</a></strong>
 </p>
 
 <!--
 <p align="center" style="display:none;">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
 -->
 
-![Profile views counter](https://komarev.com/ghpvc/?username=flynncao&&style=flat-square)  
 
-  
 
   
 
