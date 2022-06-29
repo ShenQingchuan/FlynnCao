@@ -24,16 +24,35 @@
 </div>  
 
 ## GITHUB STATUS
+<div align="center">  
+
 [<img   src="https://raw.githubusercontent.com/FlynnCao/github-stats-transparent/output/generated/overview.svg">](#)
 [<img   src="https://raw.githubusercontent.com/FlynnCao/github-stats-transparent/output/generated/languages.svg">](#)
 
-
+</div>
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=flynncao&&style=flat-square)  
 </details>
-<img style="max-width:100%;max-height:100%;"  src="https://user-images.githubusercontent.com/29702341/176376771-53598eff-6c5c-4f40-8b44-a236ce31902b.jpg" ></img>
 
+<p align="center">
+  <a href="https://github.com/flynncao"><img src="https://user-images.githubusercontent.com/29702341/176376771-53598eff-6c5c-4f40-8b44-a236ce31902b.jpg" alt="Flynn Cao's github stats"></a>
+</p>
+
+
+
+<p align="center">
+  <strong><a href="https://flynncao.github.io">Official Website</a></strong> |
+  <strong><a href="https://twitter.com/flynncao99">Twitter</a></strong> |
+  <strong><a href="https://t.me/weclove2008/">Telegram</a></strong> |
+  <strong><a href="https://https://dev.to/flynncao">Devto</a></strong> |
+  <strong><a href="https://www.cnblogs.com/caozhenfei/">博客园</a></strong>
+</p>
+
+<!--
+<p align="center" style="display:none;">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
+-->
+
+![Profile views counter](https://komarev.com/ghpvc/?username=flynncao&&style=flat-square)  
 
   
 
