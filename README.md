@@ -28,13 +28,13 @@ Hello, My Name is Flynn. I am from Puyang,China.<img width="20" src="https://use
 
 I am currently majoring in MSE(CA) at the University of Malaya. <img width="20" src="https://user-images.githubusercontent.com/29702341/173494703-a734b35c-28df-4fd3-9d07-65449905dfc9.png"/>
 <br/>  
-## Blog
+## BLOG
   
 I write English blog here: https://dev.to/flynncao/
   
 我在这里写中文博客: https://www.cnblogs.com/caozhenfei/
  
-## Rapidfire  
+## RAPIDFIRE  
 <table><tr><td valign="top" width="50%">
  
   
@@ -60,7 +60,7 @@ I write English blog here: https://dev.to/flynncao/
 </td></tr></table>  
 
 
-## Technology Stack
+## TECHNOLOGY STACK
 
 
 <div align="center">  
@@ -81,7 +81,7 @@ I write English blog here: https://dev.to/flynncao/
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="25" />  
 </div>  
 
-## Github Stats  
+## GITHUB STATUS
 [<img   src="https://raw.githubusercontent.com/FlynnCao/github-stats-transparent/output/generated/overview.svg">](#)
 [<img   src="https://raw.githubusercontent.com/FlynnCao/github-stats-transparent/output/generated/languages.svg">](#)
 
@@ -90,6 +90,6 @@ I write English blog here: https://dev.to/flynncao/
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=flynncao&&style=flat-square)  
   
-## Current Ideas
+## CURRENT IDEAS
 * 一个web应用可以让用户直接看到当前最高/最低温度（最适合外出的时机）
 
