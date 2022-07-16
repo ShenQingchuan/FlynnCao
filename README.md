@@ -50,7 +50,9 @@
   <strong><a href="https://twitter.com/flynncao99" target="_blank">Twitter</a></strong> |
   <strong><a href="https://t.me/weclove2008/" target="_blank">Telegram</a></strong> |
   <strong><a href="https://https://dev.to/flynncao" target="_blank">Devto</a></strong> |
-  <strong><a href="https://www.cnblogs.com/caozhenfei/" target="_blank">博客园</a></strong>
+  <strong><a href="https://www.cnblogs.com/caozhenfei/" target="_blank">博客园</a></strong> |
+    <strong><a href="https://blog.csdn.net/YuriChao" target="_blank">CSDN</a></strong>
+
 </p>
 
 <!--
