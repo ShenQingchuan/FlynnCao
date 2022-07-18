@@ -5,7 +5,13 @@
 <!-- <details>
   <summary></summary> -->
 
-## TECHNOLOGY STACK
+<div align="center">  
+
+[<img   src="https://raw.githubusercontent.com/FlynnCao/github-stats-transparent/output/generated/overview.svg">](#)
+[<img   src="https://raw.githubusercontent.com/FlynnCao/github-stats-transparent/output/generated/languages.svg">](#)
+
+</div>
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
@@ -24,13 +30,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="25" />  
 </div>  
 
-## GITHUB STATUS
-<div align="center">  
 
-[<img   src="https://raw.githubusercontent.com/FlynnCao/github-stats-transparent/output/generated/overview.svg">](#)
-[<img   src="https://raw.githubusercontent.com/FlynnCao/github-stats-transparent/output/generated/languages.svg">](#)
-
-</div>
 
 <!--
 ![Profile views counter](https://komarev.com/ghpvc/?username=flynncao&&style=flat-square) 
