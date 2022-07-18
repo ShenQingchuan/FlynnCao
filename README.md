@@ -2,8 +2,8 @@
 
 
 
-<details>
-<summary></summary>
+<!-- <details>
+  <summary></summary> -->
 
 ## TECHNOLOGY STACK
 <div align="center">  
