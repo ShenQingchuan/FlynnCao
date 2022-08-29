@@ -1,14 +1,16 @@
 ## Hey 👋, I'm Flynn Cao ~  
 
 
+<details>
+<summary> + </summary>
+![](github-metrics.svg)
+  <div style="padding:0 20px;box-sizing:border-box">
+<img align="center"  src="github-metrics.svg">  
+</img></div>
+</details>
 
-<!-- <details>
-  <summary></summary> -->
-
-<div align="center">  
 
 
-</div>
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
@@ -36,10 +38,9 @@
 <br/>  
 
 </details>
-<!-- 
 <p align="center">
   <a href="https://github.com/flynncao"><img src="https://user-images.githubusercontent.com/29702341/176376771-53598eff-6c5c-4f40-8b44-a236ce31902b.jpg" alt="Flynn Cao's github stats"></a>
-</p> -->
+</p>
 
 
 
