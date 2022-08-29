@@ -1,15 +1,15 @@
 ## Hey 👋, I'm Flynn Cao ~  
 
-
+<!--
 <details>
-<summary> + </summary>
+<summary> </summary>
 ![](github-metrics.svg)
   <div style="padding:0 20px;box-sizing:border-box">
 <img align="center"  src="github-metrics.svg">  
 </img></div>
 </details>
 
-
+-->
 
 
 <div align="center">  
