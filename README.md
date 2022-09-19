@@ -32,7 +32,7 @@
 
 
 <p align="center">
-  <strong><a href="https://flynncao.github.io" target="_blank">Official Website</a></strong> |
+  <strong><a href="https://flynncao.xyz" target="_blank">Official Website</a></strong> |
   <strong><a href="https://twitter.com/flynnchao99" target="_blank">Twitter</a></strong> |
   <strong><a href="https://t.me/weclove2008/" target="_blank">Telegram</a></strong> |
   <strong><a href="https://https://dev.to/flynncao" target="_blank">Devto</a></strong> |
@@ -41,7 +41,7 @@
 
 </p>
 
-
+<!--
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
@@ -60,6 +60,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="25" />  
 </div>  
+
+-->
 
 
 <!--
