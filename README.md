@@ -73,9 +73,11 @@
 
 
 
-<!--
-<p align="center" style="display:none;">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
--->
+
+<p align="center" style="display:none;">❤ 画师：<a href="https://www.pixiv.net/users/9155411">rucaco/るかこ.</a></p>
+
+
+
 
 
 
