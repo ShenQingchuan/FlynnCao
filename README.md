@@ -74,9 +74,6 @@
 
 
 
-<p align="center" style="display:none;">❤ 画师：<a href="https://www.pixiv.net/users/9155411">rucaco/るかこ.</a></p>
-
-
 
 
 
