@@ -37,7 +37,7 @@
   <strong><a href="https://flynncao.xyz/projects" target="_blank">projects</a></strong> |
   <strong><a href="https://twitter.com/flynnchao99" target="_blank">twitter</a></strong> |
   <strong><a href="https://t.me/weclove2008/" target="_blank">telegram</a></strong> |
-  <strong><a href="https://www.linkedin.com/in/flynn-cao-960b8b252" target="_blank">linkedIn</a> 
+  <strong><a href="https://www.linkedin.com/in/zhenfei-cao-960b8b252/" target="_blank">linkedIn</a> 
  
 </p>
 
