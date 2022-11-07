@@ -36,7 +36,8 @@
   <strong><a href="https://flynncao.xyz/blog" target="_blank">blog</a></strong> |
   <strong><a href="https://flynncao.xyz/projects" target="_blank">projects</a></strong> |
   <strong><a href="https://twitter.com/flynnchao99" target="_blank">twitter</a></strong> |
-  <strong><a href="https://t.me/weclove2008/" target="_blank">telegram</a></strong> |
+  <strong><a href="https://t.me/weclove2008/" target="_blank">telegram</a></strong> | 
+  <strong><a href="https://discord.gg/esVf6V7t" target="_blank">discord</a></strong> |
   <strong><a href="https://www.linkedin.com/in/zhenfei-cao-960b8b252/" target="_blank">linkedIn</a> 
  
 </p>
