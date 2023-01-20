@@ -32,7 +32,6 @@
 
 
 <p align="center">
-  <strong><a href="https://nextjs-notion-flynn.vercel.app/" target="_blank">blog</a></strong> |
   <strong><a href="https://twitter.com/flynnchao99" target="_blank">twitter</a></strong> |
   <strong><a href="https://t.me/weclove2008/" target="_blank">telegram</a></strong> | 
   <strong><a href="https://discord.gg/esVf6V7t" target="_blank">discord</a></strong> |
