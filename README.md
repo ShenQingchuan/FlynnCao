@@ -10,10 +10,11 @@
 
 <p align="center">
   <a href="https://github.com/edisonlee55"><img src="https://github-readme-stats.vercel.app/api?username=flynncao&hide_border=true&show_icons=true" alt="flynncao's github stats"></a>
+
 </p>
 
+  
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yq55jcmnkkkuhe4irsa7kphjoy&cover_image=true&theme=default&show_offline=true&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
 <p align="center">
   <strong><a href="https://www.flynncao.xyz">Official Website</a></strong> |
