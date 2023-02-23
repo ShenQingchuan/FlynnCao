@@ -12,8 +12,11 @@
   <a href="https://github.com/edisonlee55"><img src="https://github-readme-stats.vercel.app/api?username=flynncao&hide_border=true&show_icons=true" alt="flynncao's github stats"></a>
 
 </p>
+<p align="center">
 
-  
+<img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=31yq55jcmnkkkuhe4irsa7kphjoy&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212"/>
+
+</p>
 
 
 <p align="center">
@@ -39,7 +42,6 @@
 <br/>  
 
 -->
-
 
 
 
