@@ -1,52 +1,40 @@
-<!--
-## Hey 👋, I'm Flynn Cao ~  
 
 
--->
 
-<!--
-<details>
-<summary> </summary>
-![](github-metrics.svg)
-  <div style="padding:0 20px;box-sizing:border-box">
-<img align="center"  src="github-metrics.svg">  
-</img></div>
-</details>
-
-</details>
 <p align="center">
-  <a href="https://github.com/flynncao"><img src="https://user-images.githubusercontent.com/29702341/176376771-53598eff-6c5c-4f40-8b44-a236ce31902b.jpg" alt="Flynn Cao's github stats"></a>
+  <a href="https://www.flynncao.xyz"><img src="https://user-images.githubusercontent.com/29702341/176376771-53598eff-6c5c-4f40-8b44-a236ce31902b.jpg" alt="Flynn Cao's github stats"</a>
+</p>
+
+<h1 align="center">Hi, I'm <a href="https://www.flynncao.xyz">Maji-May</a>!</h1>
+
+<p align="center">
+  <a href="https://github.com/edisonlee55"><img src="https://github-readme-stats.vercel.app/api?username=flynncao&hide_border=true&show_icons=true" alt="flynncao's github stats"></a>
+</p>
+
+<p align="center">
+  <strong><a href="https://www.flynncao.xyz">Official Website</a></strong> |
+  <strong><a href="https://twitter.com/real_flynncao">Twitter</a></strong> |
+  <strong><a href="https://www.linkedin.com/in/zhenfei-cao-960b8b252/">LinkedIn</a></strong> |
+  <strong><a href="https://www.t.me/weclove2008">Telegram</a></strong>
 </p>
 
 
--->
 
 
-
-
-<!--
 ![Profile views counter](https://komarev.com/ghpvc/?username=flynncao&&style=flat-square) 
--->
+
 <br/>  
 
 
 
-<p align="center">
-  <strong><a href="https://twitter.com/real_flynncao" target="_blank">twitter</a></strong> |
-  <strong><a href="https://t.me/weclove2008/" target="_blank">telegram</a></strong> | 
-  <strong><a href="https://discord.gg/esVf6V7t" target="_blank">discord</a></strong> |
-  <strong><a href="https://www.linkedin.com/in/zhenfei-cao-960b8b252/" target="_blank">linkedIn</a> 
- 
-</p>
+
+
+
+
+
 
 <!--
-<p>
-  <strong><a href="https://https://dev.to/flynncao" target="_blank">Devto</a></strong> |
-   <strong><a href="https://www.cnblogs.com/caozhenfei/" target="_blank">博客园</a></strong> |
-    <strong><a href="https://blog.csdn.net/YuriChao" target="_blank">CSDN</a></strong>
-  </p>-->
-
-<!--<div align="center" >  
+<div align="center" >  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
@@ -63,8 +51,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="25" />  
 </div>  
-
 -->
+
+
 
 
 
