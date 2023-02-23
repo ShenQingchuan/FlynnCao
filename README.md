@@ -1,7 +1,7 @@
 
 
 
-<p align="center">
+<p align="center" >
   <a href="https://www.flynncao.xyz"><img src="https://user-images.githubusercontent.com/29702341/176376771-53598eff-6c5c-4f40-8b44-a236ce31902b.jpg" alt="Flynn Cao's github stats"</a>
 </p>
 
@@ -19,16 +19,21 @@
 </p>
 
 
-
+<!--
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=flynncao&&style=flat-square) 
 
 <br/>  
 
+-->
 
+  
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flynncao&layout=compact&hide=jupyter%20notebook)
 
+<br/>  
 
-
+-->
 
 
 
