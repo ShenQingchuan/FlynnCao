@@ -14,7 +14,9 @@
 </p>
 <p align="center">
 
-<img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=31yq55jcmnkkkuhe4irsa7kphjoy&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212"/>
+  <a href="https://open.spotify.com/user/31yq55jcmnkkkuhe4irsa7kphjoy" alt="spotify">
+  <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=31yq55jcmnkkkuhe4irsa7kphjoy&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212"/>
+</a>
 
 </p>
 
