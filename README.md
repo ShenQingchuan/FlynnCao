@@ -22,7 +22,8 @@
 
 
 <p align="center">
-  <strong><a href="https://www.flynncao.xyz">Official Website</a></strong> |
+  <strong><a href="https://www.flynncao.xyz">Official Website</a></strong> | 
+  <strong><a href="https://maji-may-7766.xlog.app/">中文博客</a></strong> |
   <strong><a href="https://twitter.com/real_flynncao">Twitter</a></strong> |
   <strong><a href="https://www.linkedin.com/in/zhenfei-cao-960b8b252/">LinkedIn</a></strong> |
   <strong><a href="https://www.t.me/weclove2008">Telegram</a></strong>
